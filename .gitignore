@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.venv/
+
+# Generated Python package files
+*.egg-info/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
