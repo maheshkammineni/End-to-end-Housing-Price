@@ -1,17 +1,11 @@
-# Virtual environments
+# Python virtual environments
 venv/
 .venv/
 
-# Generated Python package files
-*.egg-info/
-
-# Python cache
+# Python cache and generated files
 __pycache__/
 *.py[cod]
+*.egg-info/
 
-# Logs
-logs/
-*.log
-
-# Environment variables
-.env
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
